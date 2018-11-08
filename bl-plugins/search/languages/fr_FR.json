@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Recherche",
+		"description": "Affiche une zone de recherche à vous utilisateur pour trouver du contenu de votre site."
+	},
+	"search": "Recherche"
